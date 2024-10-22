@@ -1,0 +1,25 @@
+.nav-c{
+    background-color: blue;
+}
+#inputText1{
+    width: 50%;
+    height: 600px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+#inputText2{
+    width: 50%;
+    height: 600px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.text-fields {
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;
+    
+}
