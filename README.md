@@ -1,4 +1,4 @@
-Sure! Here’s a sample `README.md` file for your project that includes instructions on how to set up the project, run it, and information about fine-tuning or changing the AI model.
+
 
 ```markdown
 # AI Paraphraser
