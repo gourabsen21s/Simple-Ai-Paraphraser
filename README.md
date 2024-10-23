@@ -104,13 +104,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to me at [your-email@example.com].
+For any questions or suggestions, feel free to reach out to me at gourabsen.21.2001@gmail.com
 ```
 
-### Notes:
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- Change the model name in the instructions as per your project's requirements.
-- Update the contact email address at the bottom.
-- Adjust any other sections based on your project specifics, such as additional features or requirements.
-
-This `README.md` provides a comprehensive guide for users to understand, install, and run your project while also allowing them to customize the AI model used in the application.
