@@ -14,7 +14,7 @@ app.post('/paraphrase', async (req, res) => {
     const inputText = req.body.text;
     
     try {
-        const response = await axios.post('http://localhost:5000/paraphrase', {
+        const response = await axios.post('http://localhost:8000/paraphrase', {
             text: inputText
         });
         const paraphrasedText = response.data.paraphrasedText;
