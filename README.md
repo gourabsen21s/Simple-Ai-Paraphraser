@@ -1,16 +1,16 @@
 
 ```markdown
-# 🌟 AI Paraphraser
+🌟 AI Paraphraser
 
 Welcome to the **AI Paraphraser** project! 🚀 This application leverages the power of generative AI to paraphrase text. Users can input text, which is processed by a backend service, returning a paraphrased version in real time. Plus, you can see the total word count as you type! ✍️
 
-## 🎉 Features
+🎉 Features
 
 - **Real-time Word Count**: Keep track of your word count while typing! 📝
 - **AI-Driven Paraphrasing**: Get instant paraphrased text with state-of-the-art AI. 🤖
 - **Model Flexibility**: Easily switch or fine-tune AI models to suit your needs. 🔄
 
-## 📋 Requirements
+📋 Requirements
 
 To run this project, you'll need the following:
 
@@ -19,7 +19,7 @@ To run this project, you'll need the following:
 - Flask 🚀
 - Transformers library (for AI model) 📦
 
-## ⚙️ Installation
+⚙️ Installation
 
 1. **Clone the Repository**:
 
