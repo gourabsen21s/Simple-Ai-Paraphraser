@@ -1,8 +1,3 @@
-Here is the **complete, final, production-quality `README.md` file** for your **AI Paraphraser** project.
-It is **modern, clean, professional, and GitHub-ready**.
-You can **copy–paste this directly** into `README.md`.
-
----
 
 ````md
 # AI Paraphraser
